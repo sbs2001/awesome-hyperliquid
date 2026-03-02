@@ -17,6 +17,7 @@
 ### Trading and Sniper Bot
 
 - [HypurrFun](https://hypurr.fun/)
+- [DeFi Trading Proxy](https://agent-gateway-kappa.vercel.app) - Hyperliquid perps trading proxy for AI agents. Part of Agent Gateway (34+ services). Bearer token auth, credit-based billing.
 
 ### Analytics
 
