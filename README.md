@@ -22,6 +22,7 @@
 
 - [Dune](https://dune.com/mogie/hyperliquid-flows)
 - [DefiLlama](https://defillama.com/chain/Hyperliquid)
+- [perp.wiki](https://perp.wiki) - Hyperliquid ecosystem directory and live market data: funding rates, OI, volume, token listings, and protocol comparisons
 
 
 ### X/Twitter Accounts
