@@ -17,6 +17,7 @@
 ### Trading and Sniper Bot
 
 - [HypurrFun](https://hypurr.fun/)
+- [Hyperliquid Starter Bot](https://github.com/hypeprinter007-stack/hyperliquid-starter-bot) - Minimal, production-ready algo trading bot for Hyperliquid perps with fused signal layer (sentiment + macro + market structure).
 
 ### Analytics
 
