@@ -17,6 +17,7 @@
 ### Trading and Sniper Bot
 
 - [HypurrFun](https://hypurr.fun/)
+- [SignalFuse Starter Bot](https://github.com/hypeprinter007-stack/signalfuse-starter-bot) - Open-source trading bot with fused signal intelligence and x402 micropayments on Base.
 
 ### Analytics
 
