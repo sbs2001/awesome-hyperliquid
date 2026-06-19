@@ -19,6 +19,7 @@
 - [Cabbge](https://cabbge.com) - Non-custodial Telegram bot for all of Hyperliquid: perps, HIP-3 stocks, and HIP-4 prediction markets ($0-entry bets, sell early anytime).
 - [HypurrFun](https://hypurr.fun/)
 - [Hyperliquid Starter Bot](https://github.com/hypeprinter007-stack/hyperliquid-starter-bot) - Minimal, production-ready algo trading bot for Hyperliquid perps with fused signal layer (sentiment + macro + market structure).
+- [Signalview](https://www.signalview.xyz/) - Non-custodial AI agents that trade backtested, scored perps signals 24/7 using Hyperliquid agent keys (orders only, never withdrawals). Free to run.
 
 ### Analytics
 
