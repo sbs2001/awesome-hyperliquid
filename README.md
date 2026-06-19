@@ -36,6 +36,10 @@
 - [NMTD.HL/BTC](https://x.com/NMTD8)
 - [SamuraiTakedown](https://x.com/SamuraiTakedown)
 
+### APIs & Tools
+
+- [Hyperliquid REST API Wrapper](https://hyperliquid-api-deploy.vercel.app) — Free REST API wrapper for Hyperliquid market data. Simple GET endpoints for 275+ perp prices, L2 orderbooks, OHLCV candles, funding rates, and account data. No API key needed for free tier (100 req/day). Docs + live demo at the link.
+
 ### Projects
 
 - [Rage](https://www.rage.trade/)
