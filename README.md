@@ -16,8 +16,11 @@
 
 ### Trading and Sniper Bot
 
+- [Cabbge](https://cabbge.com) - Non-custodial Telegram bot for all of Hyperliquid: perps, HIP-3 stocks, and HIP-4 prediction markets ($0-entry bets, sell early anytime).
 - [HypurrFun](https://hypurr.fun/)
 - [DeFi Trading Proxy](https://agent-gateway-kappa.vercel.app) - Hyperliquid perps trading proxy for AI agents. Part of Agent Gateway (34+ services). Bearer token auth, credit-based billing.
+- [Hyperliquid Starter Bot](https://github.com/hypeprinter007-stack/hyperliquid-starter-bot) - Minimal, production-ready algo trading bot for Hyperliquid perps with fused signal layer (sentiment + macro + market structure).
+- [Signalview](https://www.signalview.xyz/) - Non-custodial AI agents that trade backtested, scored perps signals 24/7 using Hyperliquid agent keys (orders only, never withdrawals). Free to run.
 
 ### Analytics
 
@@ -34,11 +37,16 @@
 - [NMTD.HL/BTC](https://x.com/NMTD8)
 - [SamuraiTakedown](https://x.com/SamuraiTakedown)
 
+### APIs & Tools
+
+- [Hyperliquid REST API Wrapper](https://hyperliquid-api-deploy.vercel.app) — Free REST API wrapper for Hyperliquid market data. Simple GET endpoints for 275+ perp prices, L2 orderbooks, OHLCV candles, funding rates, and account data. No API key needed for free tier (100 req/day). Docs + live demo at the link.
+
 ### Projects
 
 - [Rage](https://www.rage.trade/)
 - [HyBridge](https://x.com/HyBridgeHL)
 - [HyperLend](https://x.com/hyperlendx)
+- [VisionBoard Vault](https://vault.visionboardfinance.com/) - HyperEVM-native ERC-4626 vault and VBV share-token layer. [GeckoTerminal](https://www.geckoterminal.com/hyperevm/pools/0x8d878c31d03a31d60464d08bd6279e7205853115)
 
 
 ## Contribute
