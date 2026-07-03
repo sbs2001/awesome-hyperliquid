@@ -26,6 +26,7 @@
 
 - [Dune](https://dune.com/mogie/hyperliquid-flows)
 - [DefiLlama](https://defillama.com/chain/Hyperliquid)
+- [OpenChainBench](https://openchainbench.com/hyperliquid) - Open live benchmarks of Hyperliquid infrastructure: builder revenue across 104 frontends, HIP-3 deployer fees, perp costs. Public Prometheus, data CC-BY-4.0
 - [perp.wiki](https://perp.wiki) - Hyperliquid ecosystem directory and live market data: funding rates, OI, volume, token listings, and protocol comparisons
 
 
