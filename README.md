@@ -28,6 +28,7 @@
 - [Dune](https://dune.com/mogie/hyperliquid-flows)
 - [DefiLlama](https://defillama.com/chain/Hyperliquid)
 - [perp.wiki](https://perp.wiki) - Hyperliquid ecosystem directory and live market data: funding rates, OI, volume, token listings, and protocol comparisons
+- [OpenChainBench](https://openchainbench.com/benchmarks/hyperliquid-frontends) - Live builder revenue leaderboard for all Hyperliquid frontends (104+ tracked) and HIP-3 deployers. Onchain-verified, open methodology, CC BY 4.0 data. JSON API + MCP server.
 - [VaultVision](https://vaultvision.tech/vaults/scanner) - Hyperliquid vault scanner with live risk-adjusted rankings, TVL, max drawdown, deposit status, entry quality, alerts, and crawlable vault detail pages.
 
 
