@@ -21,6 +21,7 @@
 - [DeFi Trading Proxy](https://agent-gateway-kappa.vercel.app) - Hyperliquid perps trading proxy for AI agents. Part of Agent Gateway (34+ services). Bearer token auth, credit-based billing.
 - [Hyperliquid Starter Bot](https://github.com/hypeprinter007-stack/hyperliquid-starter-bot) - Minimal, production-ready algo trading bot for Hyperliquid perps with fused signal layer (sentiment + macro + market structure).
 - [Signalview](https://www.signalview.xyz/) - Non-custodial AI agents that trade backtested, scored perps signals 24/7 using Hyperliquid agent keys (orders only, never withdrawals). Free to run.
+- [Testudo](https://github.com/sub0xdai/testudo) - Open-source crypto exchange platform with Rust matching engine, Hyperliquid agent wallet integration, shadow-mode paper trading, and multi-exchange support.
 
 ### Analytics
 
