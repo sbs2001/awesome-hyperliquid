@@ -32,6 +32,7 @@
 - [perp.wiki](https://perp.wiki) - Hyperliquid ecosystem directory and live market data: funding rates, OI, volume, token listings, and protocol comparisons
 - [OpenChainBench](https://openchainbench.com/benchmarks/hyperliquid-frontends) - Live builder revenue leaderboard for all Hyperliquid frontends (104+ tracked) and HIP-3 deployers. Onchain-verified, open methodology, CC BY 4.0 data. JSON API + MCP server.
 - [VaultVision](https://vaultvision.tech/vaults/scanner) - Hyperliquid vault scanner with live risk-adjusted rankings, TVL, max drawdown, deposit status, entry quality, alerts, and crawlable vault detail pages.
+- [Hyperadar](https://hyperadar.xyz) - Independent Hyperliquid analytics terminal: 95 panels covering perps, HIP-3, HIP-4, spot, DEX, HYPE supply and buybacks, treasuries, and HYPE ETF flows. Daily history since October 2025, first-party Hyperliquid data where it exists, aggregator sources labelled in each panel.
 
 
 ### X/Twitter Accounts
