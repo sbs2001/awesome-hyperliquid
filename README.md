@@ -48,7 +48,7 @@
 -[hyper-evm-lib](https://github.com/hyperliquid-dev/hyper-evm-lib) - most widely adopted library for smart contracts on Hyperliquid.
 
 
-- [Bitquery Hyperliquid API](https://docs.bitquery.io/docs/perpetuals/hyperliquid) - GraphQL and WebSocket API for Hyperliquid core: trades, orders, order book updates, OHLCV candles, liquidations, funding, positions, TWAPs, mark prices and signed actions. Same query works as a historical query or a real-time subscription; Kafka/protobuf streams and a full archive are also available.
+- [Bitquery Hyperliquid API](https://docs.bitquery.io/docs/perpetuals/hyperliquid) - GraphQL and WebSocket API for Hyperliquid core, serving the book at **L3 (market-by-order)**: every order delta carries its own order id and the wallet address that placed it, market-wide and at unlimited depth. Also covers trades, OHLCV candles, liquidations, funding, positions, leverage, TWAPs, mark prices and signed actions. The same query runs as a historical query or a real-time subscription.
 
 - [Hyperliquid REST API Wrapper](https://hyperliquid-api-deploy.vercel.app) — Free REST API wrapper for Hyperliquid market data. Simple GET endpoints for 275+ perp prices, L2 orderbooks, OHLCV candles, funding rates, and account data. No API key needed for free tier (100 req/day). Docs + live demo at the link.
 
