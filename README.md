@@ -32,6 +32,7 @@
 - [perp.wiki](https://perp.wiki) - Hyperliquid ecosystem directory and live market data: funding rates, OI, volume, token listings, and protocol comparisons
 - [OpenChainBench](https://openchainbench.com/benchmarks/hyperliquid-frontends) - Live builder revenue leaderboard for all Hyperliquid frontends (104+ tracked) and HIP-3 deployers. Onchain-verified, open methodology, CC BY 4.0 data. JSON API + MCP server.
 - [VaultVision](https://vaultvision.tech/vaults/scanner) - Hyperliquid vault scanner with live risk-adjusted rankings, TVL, max drawdown, deposit status, entry quality, alerts, and crawlable vault detail pages.
+- [Yieldo Funding Benchmark](https://yieldo.me/blog/funding/funding-rate-benchmark-hyperliquid-vs-cex) - Open dataset comparing annualised perpetual funding on Hyperliquid against other perp DEXes and a median of 9 centralised exchanges. Daily panel of 31,342 rows over 12 venues and 62 coins since 2026-07-05, with the funding interval and observation counts published per row. Live JSON/CSV feeds, versioned snapshots archived under DOI 10.5281/zenodo.22556012, CC BY 4.0.
 
 
 ### X/Twitter Accounts
