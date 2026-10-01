@@ -49,6 +49,7 @@
 
 
 - [Hyperliquid REST API Wrapper](https://hyperliquid-api-deploy.vercel.app) — Free REST API wrapper for Hyperliquid market data. Simple GET endpoints for 275+ perp prices, L2 orderbooks, OHLCV candles, funding rates, and account data. No API key needed for free tier (100 req/day). Docs + live demo at the link.
+- [Resolved Markets](https://resolvedmarkets.com) - Historical and live Hyperliquid perp order books alongside Polymarket order book data, via REST, WebSocket and MCP. Hyperliquid data requires a paid plan.
 
 ### Projects
 - [Rage](https://www.rage.trade/)
