@@ -22,6 +22,7 @@
 - [Hyperliquid Starter Bot](https://github.com/hypeprinter007-stack/hyperliquid-starter-bot) - Minimal, production-ready algo trading bot for Hyperliquid perps with fused signal layer (sentiment + macro + market structure).
 - [Signalview](https://www.signalview.xyz/) - Non-custodial AI agents that trade backtested, scored perps signals 24/7 using Hyperliquid agent keys (orders only, never withdrawals). Free to run.
 - [Testudo](https://github.com/sub0xdai/testudo) - Open-source crypto exchange platform with Rust matching engine, Hyperliquid agent wallet integration, shadow-mode paper trading, and multi-exchange support.
+- [HypurrTrade](https://hypurrtrade.live) - Non-custodial Hyperliquid perps terminal with a browser-run Auto-Pilot bot, three-tier take-profits, trailing stops and a free paper-trading demo. Agent keys can trade but never withdraw.
 
 ### Analytics
 
