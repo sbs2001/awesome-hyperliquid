@@ -49,6 +49,7 @@
 
 
 - [Hyperliquid REST API Wrapper](https://hyperliquid-api-deploy.vercel.app) — Free REST API wrapper for Hyperliquid market data. Simple GET endpoints for 275+ perp prices, L2 orderbooks, OHLCV candles, funding rates, and account data. No API key needed for free tier (100 req/day). Docs + live demo at the link.
+- [Hydromancer](https://hydromancer.xyz/) - Hyperliquid data API: REST and WebSocket access to fills, positions for up to 1,000 wallets per request, liquidations and L2/L4 order book streams, plus Reservoir, a free historical data archive on AWS S3.
 
 ### Projects
 - [Rage](https://www.rage.trade/)
