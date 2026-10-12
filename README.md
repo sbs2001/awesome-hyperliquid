@@ -49,6 +49,7 @@
 
 
 - [Hyperliquid REST API Wrapper](https://hyperliquid-api-deploy.vercel.app) — Free REST API wrapper for Hyperliquid market data. Simple GET endpoints for 275+ perp prices, L2 orderbooks, OHLCV candles, funding rates, and account data. No API key needed for free tier (100 req/day). Docs + live demo at the link.
+- [HyperEVM eth_getLogs backfill](https://github.com/blockvectra/hyperevm-getlogs-backfill) - Runnable Node script that splits HyperEVM `eth_getLogs` backfills into chunks sized to the RPC's block-range limit, with a 30-day call-count model.
 
 ### Projects
 - [Rage](https://www.rage.trade/)
