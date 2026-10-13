@@ -20,9 +20,11 @@
 - [HypurrFun](https://hypurr.fun/)
 - [DeFi Trading Proxy](https://agent-gateway-kappa.vercel.app) - Hyperliquid perps trading proxy for AI agents. Part of Agent Gateway (34+ services). Bearer token auth, credit-based billing.
 - [Hyperliquid Starter Bot](https://github.com/hypeprinter007-stack/hyperliquid-starter-bot) - Minimal, production-ready algo trading bot for Hyperliquid perps with fused signal layer (sentiment + macro + market structure).
+- [deltafarm](https://github.com/Birantx/deltafarm) - Non-custodial delta-neutral funding farmer for Hyperliquid (long spot / short perp). Keys stay local, on-chain-verifiable builder fee, terminal dashboard, 166 tests.
 - [Signalview](https://www.signalview.xyz/) - Non-custodial AI agents that trade backtested, scored perps signals 24/7 using Hyperliquid agent keys (orders only, never withdrawals). Free to run.
 - [Testudo](https://github.com/sub0xdai/testudo) - Open-source crypto exchange platform with Rust matching engine, Hyperliquid agent wallet integration, shadow-mode paper trading, and multi-exchange support.
 - [HyperGrok Trading Desk](https://github.com/galleonlabs/hypergrok-trading-desk) - Grok-first Hyperliquid desk: seven roles and seventeen shared skills for setup, market data, risk, ticketed execution, and review. `npx skills add galleonlabs/hypergrok-trading-desk`
+- [TV-Hub](https://www.tv-hub.org/) - Executes TradingView alerts and forwarded Telegram signals as Hyperliquid orders, plus DCA and grid bots. Free when you approve the TV-Hub builder fee.
 
 ### Analytics
 
@@ -33,6 +35,8 @@
 - [perp.wiki](https://perp.wiki) - Hyperliquid ecosystem directory and live market data: funding rates, OI, volume, token listings, and protocol comparisons
 - [OpenChainBench](https://openchainbench.com/benchmarks/hyperliquid-frontends) - Live builder revenue leaderboard for all Hyperliquid frontends (104+ tracked) and HIP-3 deployers. Onchain-verified, open methodology, CC BY 4.0 data. JSON API + MCP server.
 - [VaultVision](https://vaultvision.tech/vaults/scanner) - Hyperliquid vault scanner with live risk-adjusted rankings, TVL, max drawdown, deposit status, entry quality, alerts, and crawlable vault detail pages.
+- [CryptoAnimon](https://cryptoanimon.com/en/?src=awesome) - Any Hyperliquid wallet's rounds marked to market, live liquidation maps, a free Daily, and Telegram alerts when a wallet trades.
+- [Hyperliquid Discipline Report](https://tradecopilot.app/hyperliquid-discipline-report) - Free behavioural report for any wallet, built from its public perp fills: revenge trading, tilt speed, sizing up after losses, letting losers run, overtrading and fee drag, all net of fees.
 
 
 ### X/Twitter Accounts
@@ -49,7 +53,10 @@
 -[hyper-evm-lib](https://github.com/hyperliquid-dev/hyper-evm-lib) - most widely adopted library for smart contracts on Hyperliquid.
 
 
+- [Bitquery Hyperliquid API](https://docs.bitquery.io/docs/perpetuals/hyperliquid) - GraphQL and WebSocket API for Hyperliquid core, serving the book at **L3 (market-by-order)**: every order delta carries its own order id and the wallet address that placed it, market-wide and at unlimited depth. Also covers trades, OHLCV candles, liquidations, funding, positions, leverage, TWAPs, mark prices and signed actions. The same query runs as a historical query or a real-time subscription.
+
 - [Hyperliquid REST API Wrapper](https://hyperliquid-api-deploy.vercel.app) — Free REST API wrapper for Hyperliquid market data. Simple GET endpoints for 275+ perp prices, L2 orderbooks, OHLCV candles, funding rates, and account data. No API key needed for free tier (100 req/day). Docs + live demo at the link.
+- [HyperEVM eth_getLogs backfill](https://github.com/blockvectra/hyperevm-getlogs-backfill) - Runnable Node script that splits HyperEVM `eth_getLogs` backfills into chunks sized to the RPC's block-range limit, with a 30-day call-count model.
 
 ### Projects
 - [Rage](https://www.rage.trade/)
@@ -57,6 +64,7 @@
 - [HyperLend](https://x.com/hyperlendx)
 - [VisionBoard Vault](https://vault.visionboardfinance.com/) - HyperEVM-native ERC-4626 vault and VBV share-token layer. [GeckoTerminal](https://www.geckoterminal.com/hyperevm/pools/0x8d878c31d03a31d60464d08bd6279e7205853115)
 - [Dexly](https://dexly.trade/) - Self-custodial mobile app (iOS/Android) for Hyperliquid: perps, spot, tokenized stocks, prediction markets, and copy trading.
+- [GDEX](https://gdex.pro/) - Multi-chain trading terminal by Gemach DAO with Hyperliquid perps (incl. HIP-3 equity, FX and commodity markets), perp copy trading from volume/PnL leaderboards, and an open-source MCP server and agent skills for AI agents ([GitHub](https://github.com/GemachDAO/gdex-skill)).
 
 
 ## Contribute
