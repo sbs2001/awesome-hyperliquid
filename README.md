@@ -33,6 +33,7 @@
 - [OpenChainBench](https://openchainbench.com/benchmarks/hyperliquid-frontends) - Live builder revenue leaderboard for all Hyperliquid frontends (104+ tracked) and HIP-3 deployers. Onchain-verified, open methodology, CC BY 4.0 data. JSON API + MCP server.
 - [VaultVision](https://vaultvision.tech/vaults/scanner) - Hyperliquid vault scanner with live risk-adjusted rankings, TVL, max drawdown, deposit status, entry quality, alerts, and crawlable vault detail pages.
 - [CryptoAnimon](https://cryptoanimon.com/en/?src=awesome) - Any Hyperliquid wallet's rounds marked to market, live liquidation maps, a free Daily, and Telegram alerts when a wallet trades.
+- [Hyperliquid Discipline Report](https://tradecopilot.app/hyperliquid-discipline-report) - Free behavioural report for any wallet, built from its public perp fills: revenge trading, tilt speed, sizing up after losses, letting losers run, overtrading and fee drag, all net of fees.
 
 
 ### X/Twitter Accounts
@@ -50,6 +51,7 @@
 
 
 - [Hyperliquid REST API Wrapper](https://hyperliquid-api-deploy.vercel.app) — Free REST API wrapper for Hyperliquid market data. Simple GET endpoints for 275+ perp prices, L2 orderbooks, OHLCV candles, funding rates, and account data. No API key needed for free tier (100 req/day). Docs + live demo at the link.
+- [HyperEVM eth_getLogs backfill](https://github.com/blockvectra/hyperevm-getlogs-backfill) - Runnable Node script that splits HyperEVM `eth_getLogs` backfills into chunks sized to the RPC's block-range limit, with a 30-day call-count model.
 
 ### Projects
 - [Rage](https://www.rage.trade/)
