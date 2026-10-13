@@ -18,13 +18,22 @@
 
 - [Cabbge](https://cabbge.com) - Non-custodial Telegram bot for all of Hyperliquid: perps, HIP-3 stocks, and HIP-4 prediction markets ($0-entry bets, sell early anytime).
 - [HypurrFun](https://hypurr.fun/)
+- [DeFi Trading Proxy](https://agent-gateway-kappa.vercel.app) - Hyperliquid perps trading proxy for AI agents. Part of Agent Gateway (34+ services). Bearer token auth, credit-based billing.
 - [Hyperliquid Starter Bot](https://github.com/hypeprinter007-stack/hyperliquid-starter-bot) - Minimal, production-ready algo trading bot for Hyperliquid perps with fused signal layer (sentiment + macro + market structure).
 - [deltafarm](https://github.com/Birantx/deltafarm) - Non-custodial delta-neutral funding farmer for Hyperliquid (long spot / short perp). Keys stay local, on-chain-verifiable builder fee, terminal dashboard, 166 tests.
+- [Signalview](https://www.signalview.xyz/) - Non-custodial AI agents that trade backtested, scored perps signals 24/7 using Hyperliquid agent keys (orders only, never withdrawals). Free to run.
+- [Testudo](https://github.com/sub0xdai/testudo) - Open-source crypto exchange platform with Rust matching engine, Hyperliquid agent wallet integration, shadow-mode paper trading, and multi-exchange support.
 
 ### Analytics
 
 - [Dune](https://dune.com/mogie/hyperliquid-flows)
 - [DefiLlama](https://defillama.com/chain/Hyperliquid)
+- [HyperAlerts](https://hyperliquid.tv/) - Free real-time Hyperliquid alerts and analytics for prices, funding, open interest, volume, wallets, large trades, news, HIP-3 earnings, and market hours.
+- [OpenChainBench](https://openchainbench.com/hyperliquid) - Open live benchmarks of Hyperliquid infrastructure: builder revenue across 104 frontends, HIP-3 deployer fees, perp costs. Public Prometheus, data CC-BY-4.0
+- [perp.wiki](https://perp.wiki) - Hyperliquid ecosystem directory and live market data: funding rates, OI, volume, token listings, and protocol comparisons
+- [OpenChainBench](https://openchainbench.com/benchmarks/hyperliquid-frontends) - Live builder revenue leaderboard for all Hyperliquid frontends (104+ tracked) and HIP-3 deployers. Onchain-verified, open methodology, CC BY 4.0 data. JSON API + MCP server.
+- [VaultVision](https://vaultvision.tech/vaults/scanner) - Hyperliquid vault scanner with live risk-adjusted rankings, TVL, max drawdown, deposit status, entry quality, alerts, and crawlable vault detail pages.
+- [Hyperliquid Discipline Report](https://tradecopilot.app/hyperliquid-discipline-report) - Free behavioural report for any wallet, built from its public perp fills: revenge trading, tilt speed, sizing up after losses, letting losers run, overtrading and fee drag, all net of fees.
 
 
 ### X/Twitter Accounts
@@ -36,12 +45,20 @@
 - [NMTD.HL/BTC](https://x.com/NMTD8)
 - [SamuraiTakedown](https://x.com/SamuraiTakedown)
 
-### Projects
+### APIs & Tools
 
+-[hyper-evm-lib](https://github.com/hyperliquid-dev/hyper-evm-lib) - most widely adopted library for smart contracts on Hyperliquid.
+
+
+- [Hyperliquid REST API Wrapper](https://hyperliquid-api-deploy.vercel.app) — Free REST API wrapper for Hyperliquid market data. Simple GET endpoints for 275+ perp prices, L2 orderbooks, OHLCV candles, funding rates, and account data. No API key needed for free tier (100 req/day). Docs + live demo at the link.
+- [HyperEVM eth_getLogs backfill](https://github.com/blockvectra/hyperevm-getlogs-backfill) - Runnable Node script that splits HyperEVM `eth_getLogs` backfills into chunks sized to the RPC's block-range limit, with a 30-day call-count model.
+
+### Projects
 - [Rage](https://www.rage.trade/)
 - [HyBridge](https://x.com/HyBridgeHL)
 - [HyperLend](https://x.com/hyperlendx)
 - [VisionBoard Vault](https://vault.visionboardfinance.com/) - HyperEVM-native ERC-4626 vault and VBV share-token layer. [GeckoTerminal](https://www.geckoterminal.com/hyperevm/pools/0x8d878c31d03a31d60464d08bd6279e7205853115)
+- [Dexly](https://dexly.trade/) - Self-custodial mobile app (iOS/Android) for Hyperliquid: perps, spot, tokenized stocks, prediction markets, and copy trading.
 
 
 ## Contribute
