@@ -41,6 +41,8 @@
 
 - [WatchCrypto](https://watchcrypto.io/exchanges/hyperliquid) - Free chart-first trading terminal for every Hyperliquid perp: 1-second candles, full order book and trade tape, TP/SL on the chart, and a live funding-rate table for all perps.
 
+- [Yieldo Funding Benchmark](https://yieldo.me/blog/funding/funding-rate-benchmark-hyperliquid-vs-cex) - Open dataset comparing annualised perpetual funding on Hyperliquid against other perp DEXes and a median of 9 centralised exchanges. Daily panel of 31,342 rows over 12 venues and 62 coins since 2026-07-05, with the funding interval and observation counts published per row. Live JSON/CSV feeds, versioned snapshots archived under DOI 10.5281/zenodo.22556012, CC BY 4.0.
+
 ### X/Twitter Accounts
 
 - [Omnia.hl](https://x.com/0xOmnia)
