@@ -58,7 +58,7 @@
 - [Hyperliquid REST API Wrapper](https://hyperliquid-api-deploy.vercel.app) — Free REST API wrapper for Hyperliquid market data. Simple GET endpoints for 275+ perp prices, L2 orderbooks, OHLCV candles, funding rates, and account data. No API key needed for free tier (100 req/day). Docs + live demo at the link.
 - [HyperEVM eth_getLogs backfill](https://github.com/blockvectra/hyperevm-getlogs-backfill) - Runnable Node script that splits HyperEVM `eth_getLogs` backfills into chunks sized to the RPC's block-range limit, with a 30-day call-count model.
 
-- [Hydromancer](https://hydromancer.xyz/) - Hyperliquid data API: REST and WebSocket access to fills, positions for up to 1,000 wallets per request, liquidations and L2/L4 order book streams, plus Reservoir, a free historical data archive on AWS S3.\n\n### Projects
+- [Hydromancer](https://hydromancer.xyz/) - Hyperliquid data API: REST and WebSocket access to fills, positions for up to 1,000 wallets per request, liquidations and L2/L4 order book streams, plus Reservoir, a free historical data archive on AWS S3.\n\n- [Resolved Markets](https://resolvedmarkets.com) - Historical and live Hyperliquid perp order books alongside Polymarket order book data, via REST, WebSocket and MCP. Hyperliquid data requires a paid plan.\n\n### Projects
 - [Rage](https://www.rage.trade/)
 - [HyBridge](https://x.com/HyBridgeHL)
 - [HyperLend](https://x.com/hyperlendx)
