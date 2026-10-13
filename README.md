@@ -39,6 +39,12 @@
 - [Hyperliquid Discipline Report](https://tradecopilot.app/hyperliquid-discipline-report) - Free behavioural report for any wallet, built from its public perp fills: revenge trading, tilt speed, sizing up after losses, letting losers run, overtrading and fee drag, all net of fees.
 
 
+- [WatchCrypto](https://watchcrypto.io/exchanges/hyperliquid) - Free chart-first trading terminal for every Hyperliquid perp: 1-second candles, full order book and trade tape, TP/SL on the chart, and a live funding-rate table for all perps.
+
+- [Yieldo Funding Benchmark](https://yieldo.me/blog/funding/funding-rate-benchmark-hyperliquid-vs-cex) - Open dataset comparing annualised perpetual funding on Hyperliquid against other perp DEXes and a median of 9 centralised exchanges. Daily panel of 31,342 rows over 12 venues and 62 coins since 2026-07-05, with the funding interval and observation counts published per row. Live JSON/CSV feeds, versioned snapshots archived under DOI 10.5281/zenodo.22556012, CC BY 4.0.
+
+- [Hyperadar](https://hyperadar.xyz) - Independent Hyperliquid analytics terminal: 95 panels covering perps, HIP-3, HIP-4, spot, DEX, HYPE supply and buybacks, treasuries, and HYPE ETF flows. Daily history since October 2025, first-party Hyperliquid data where it exists, aggregator sources labelled in each panel.
+
 - [TraderSpy](https://traderspy.app/) - Smart-money tracker for top Hyperliquid traders' positions and PnL (alongside Binance, Bybit and OKX), plus Hyperliquid charts with a live order book and paper trading.
 
 ### X/Twitter Accounts
