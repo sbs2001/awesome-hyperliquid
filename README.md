@@ -49,6 +49,8 @@
 
 - [PerpLedger](https://swarm-t3.github.io/perpledger/) - Yearly realized PnL, fees and funding for any address, plus a Koinly-ready tax CSV (perps, funding, spot, transfers). Runs in the browser on the public API.
 
+- [TrueHold](https://www.truehold.xyz/track/hyperliquid) - Portfolio tracker that reads Hyperliquid positions and P&L by wallet address, next to other wallets and exchange accounts.
+
 ### X/Twitter Accounts
 
 - [Omnia.hl](https://x.com/0xOmnia)
