@@ -45,6 +45,8 @@
 
 - [Hyperadar](https://hyperadar.xyz) - Independent Hyperliquid analytics terminal: 95 panels covering perps, HIP-3, HIP-4, spot, DEX, HYPE supply and buybacks, treasuries, and HYPE ETF flows. Daily history since October 2025, first-party Hyperliquid data where it exists, aggregator sources labelled in each panel.
 
+- [TraderSpy](https://traderspy.app/) - Smart-money tracker for top Hyperliquid traders' positions and PnL (alongside Binance, Bybit and OKX), plus Hyperliquid charts with a live order book and paper trading.
+
 ### X/Twitter Accounts
 
 - [Omnia.hl](https://x.com/0xOmnia)
