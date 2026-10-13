@@ -67,7 +67,9 @@
 - [GDEX](https://gdex.pro/) - Multi-chain trading terminal by Gemach DAO with Hyperliquid perps (incl. HIP-3 equity, FX and commodity markets), perp copy trading from volume/PnL leaderboards, and an open-source MCP server and agent skills for AI agents ([GitHub](https://github.com/GemachDAO/gdex-skill)).
 
 
-- [Floatout](https://floatout.xyz/) - Launch a branded, non-custodial Hyperliquid trading site with perps and HIP-4 prediction markets, no code needed. The site earns builder-code fees.\n\n## Contribute
+- [Floatout](https://floatout.xyz/) - Launch a branded, non-custodial Hyperliquid trading site with perps and HIP-4 prediction markets, no code needed. The site earns builder-code fees.
+
+## Contribute
 
 Contributions are welcome!
 
