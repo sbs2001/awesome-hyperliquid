@@ -23,6 +23,7 @@
 - [deltafarm](https://github.com/Birantx/deltafarm) - Non-custodial delta-neutral funding farmer for Hyperliquid (long spot / short perp). Keys stay local, on-chain-verifiable builder fee, terminal dashboard, 166 tests.
 - [Signalview](https://www.signalview.xyz/) - Non-custodial AI agents that trade backtested, scored perps signals 24/7 using Hyperliquid agent keys (orders only, never withdrawals). Free to run.
 - [Testudo](https://github.com/sub0xdai/testudo) - Open-source crypto exchange platform with Rust matching engine, Hyperliquid agent wallet integration, shadow-mode paper trading, and multi-exchange support.
+- [HyperGrok Trading Desk](https://github.com/galleonlabs/hypergrok-trading-desk) - Grok-first Hyperliquid desk: seven roles and seventeen shared skills for setup, market data, risk, ticketed execution, and review. `npx skills add galleonlabs/hypergrok-trading-desk`
 - [TV-Hub](https://www.tv-hub.org/) - Executes TradingView alerts and forwarded Telegram signals as Hyperliquid orders, plus DCA and grid bots. Free when you approve the TV-Hub builder fee.
 
 ### Analytics
