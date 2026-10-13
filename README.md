@@ -43,8 +43,6 @@
 
 - [Yieldo Funding Benchmark](https://yieldo.me/blog/funding/funding-rate-benchmark-hyperliquid-vs-cex) - Open dataset comparing annualised perpetual funding on Hyperliquid against other perp DEXes and a median of 9 centralised exchanges. Daily panel of 31,342 rows over 12 venues and 62 coins since 2026-07-05, with the funding interval and observation counts published per row. Live JSON/CSV feeds, versioned snapshots archived under DOI 10.5281/zenodo.22556012, CC BY 4.0.
 
-- [Hyperadar](https://hyperadar.xyz) - Independent Hyperliquid analytics terminal: 95 panels covering perps, HIP-3, HIP-4, spot, DEX, HYPE supply and buybacks, treasuries, and HYPE ETF flows. Daily history since October 2025, first-party Hyperliquid data where it exists, aggregator sources labelled in each panel.
-
 - [TraderSpy](https://traderspy.app/) - Smart-money tracker for top Hyperliquid traders' positions and PnL (alongside Binance, Bybit and OKX), plus Hyperliquid charts with a live order book and paper trading.
 
 - [PerpLedger](https://swarm-t3.github.io/perpledger/) - Yearly realized PnL, fees and funding for any address, plus a Koinly-ready tax CSV (perps, funding, spot, transfers). Runs in the browser on the public API.
