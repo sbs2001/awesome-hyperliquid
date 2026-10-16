@@ -70,6 +70,7 @@
 
 - [Hydromancer](https://hydromancer.xyz/) - Hyperliquid data API: REST and WebSocket access to fills, positions for up to 1,000 wallets per request, liquidations and L2/L4 order book streams, plus Reservoir, a free historical data archive on AWS S3.
 - [Resolved Markets](https://resolvedmarkets.com) - Historical and live Hyperliquid perp order books alongside Polymarket order book data, via REST, WebSocket and MCP. Hyperliquid data requires a paid plan.
+- [Vextorium](https://vextorium.com) - Pay-per-call Hyperliquid data for bots and AI agents: liquidation map of large accounts, whale positions, funding history, basis, vaults and markets, paid per call in USDC via x402 (no API key). Open-source Python client with a freqtrade helper: [vextorium-python](https://github.com/bru1noia/vextorium-python).
 
 ### Projects
 - [Rage](https://www.rage.trade/)
