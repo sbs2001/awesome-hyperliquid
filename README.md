@@ -25,6 +25,7 @@
 - [Testudo](https://github.com/sub0xdai/testudo) - Open-source crypto exchange platform with Rust matching engine, Hyperliquid agent wallet integration, shadow-mode paper trading, and multi-exchange support.
 - [HyperGrok Trading Desk](https://github.com/galleonlabs/hypergrok-trading-desk) - Grok-first Hyperliquid desk: seven roles and seventeen shared skills for setup, market data, risk, ticketed execution, and review. `npx skills add galleonlabs/hypergrok-trading-desk`
 - [TV-Hub](https://www.tv-hub.org/) - Executes TradingView alerts and forwarded Telegram signals as Hyperliquid orders, plus DCA and grid bots. Free when you approve the TV-Hub builder fee.
+- [Krexa](https://www.krexa.xyz) - Turns a trading idea, post or video into fixed rules, backtests and paper-trades them free, then runs them as a Hyperliquid agent with its own MPC wallet and per-order limits enforced in code. Also trades Binance, Coinbase, Kraken, OKX, Bybit, MEXC, Polymarket and Solana DEXs; usable from AI agents via MCP and an agent skill.
 
 ### Analytics
 
