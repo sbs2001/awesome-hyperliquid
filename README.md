@@ -51,6 +51,7 @@
 - [TrueHold](https://www.truehold.xyz/track/hyperliquid) - Portfolio tracker that reads Hyperliquid positions and P&L by wallet address, next to other wallets and exchange accounts.
 
 - [Hyperliquid builder fees report](https://floatout.xyz/hyperliquid-builder-revenue) - Daily gross USDC builder fees split by perps, HIP-3, HIP-4 and spot, with daily builder address counts, scanned from node fill data. CSV and JSON downloads, per-day source hashes, CC BY 4.0.
+- [OptimistFi Perps](https://optimistfi.com/perps) - Perps across 40 venues, Hyperliquid and its builder markets among them: funding on every venue, open interest, where each venue liquidates, whale trades, the net position of Hyperliquid's largest accounts, multi-day position builds, and a board of profitable wallets with every trade behind it.
 
 ### X/Twitter Accounts
 
@@ -76,6 +77,7 @@
 - [Vextorium](https://vextorium.com) - Pay-per-call Hyperliquid data for bots and AI agents: liquidation map of large accounts, whale positions, funding history, basis, vaults and markets, paid per call in USDC via x402 (no API key). Open-source Python client with a freqtrade helper: [vextorium-python](https://github.com/bru1noia/vextorium-python).
 
 - [hl-builder-fees](https://github.com/Floatout/hl-builder-fees) - Zero-dependency TypeScript library for builder code fee math: `f` unit conversions, per-product caps (perps, spot, HIP-3, HIP-4), asset id classification, exact BigInt fee and split calculations. MIT, on npm.
+- [OptimistFi MCP](https://optimistfi.com/mcp) - Public, read-only MCP server (no key) for Claude, ChatGPT and any MCP client: any perp's funding, open interest, liquidation levels, whale trades, book depth and big-account positioning across 40 venues with 90 days of history, plus 21 prop firms' rules and live challenge prices.
 
 ### Projects
 - [Rage](https://www.rage.trade/)
