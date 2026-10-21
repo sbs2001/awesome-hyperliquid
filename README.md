@@ -51,6 +51,7 @@
 - [TrueHold](https://www.truehold.xyz/track/hyperliquid) - Portfolio tracker that reads Hyperliquid positions and P&L by wallet address, next to other wallets and exchange accounts.
 
 - [Hyperliquid builder fees report](https://floatout.xyz/hyperliquid-builder-revenue) - Daily gross USDC builder fees split by perps, HIP-3, HIP-4 and spot, with daily builder address counts, scanned from node fill data. CSV and JSON downloads, per-day source hashes, CC BY 4.0.
+- [Squelch](https://squelchalerts.com/hyperliquid) - Telegram alerts when a $100K+ trade on one of 37 Hyperliquid perp markets is also bigger than 99% of that market's recent trades, plus Hyperliquid funding-rate extremes and open-interest spikes; 24-hour free trial, then $19/mo.
 
 ### X/Twitter Accounts
 
