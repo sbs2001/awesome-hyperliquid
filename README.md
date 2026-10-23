@@ -52,6 +52,8 @@
 
 - [Hyperliquid builder fees report](https://floatout.xyz/hyperliquid-builder-revenue) - Daily gross USDC builder fees split by perps, HIP-3, HIP-4 and spot, with daily builder address counts, scanned from node fill data. CSV and JSON downloads, per-day source hashes, CC BY 4.0.
 
+- [tula](https://usetu.la/hyperliquid-portfolio-tracker/) - Open-source CLI that tracks a Hyperliquid account by public address and ranks its liquidation risk beside Aave and exchange positions. Free [liquidation price](https://usetu.la/hyperliquid-liquidation-calculator/) and [funding rate](https://usetu.la/hyperliquid-funding-calculator/) calculators.
+
 ### X/Twitter Accounts
 
 - [Omnia.hl](https://x.com/0xOmnia)
