@@ -77,6 +77,8 @@
 
 - [hl-builder-fees](https://github.com/Floatout/hl-builder-fees) - Zero-dependency TypeScript library for builder code fee math: `f` unit conversions, per-product caps (perps, spot, HIP-3, HIP-4), asset id classification, exact BigInt fee and split calculations. MIT, on npm.
 
+- [perpbrain-sdk](https://github.com/PERPBRAIN/perpbrain-sdk) - Keyless TypeScript SDK and stdio MCP server for AI agents on Hyperliquid perps: public market reads, order-book fill simulation with fees and slippage, owner-set limits with a kill switch, and verified and reproducible receipt checks. No order path, no keys. MIT.
+
 ### Projects
 - [Rage](https://www.rage.trade/)
 - [HyBridge](https://x.com/HyBridgeHL)
