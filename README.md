@@ -87,6 +87,7 @@
 
 
 - [Floatout](https://floatout.xyz/) - Launch a branded, non-custodial Hyperliquid trading site with perps and HIP-4 prediction markets, no code needed. The site earns builder-code fees.
+- [Graphite](https://app.graphite.trade/) - Charting and trading for every Hyperliquid market, HIP-3 included: draw the trade on the chart, stop-loss and take-profit always set, size calculated from your risk net of fees. Non-custodial, 0.01% builder fee.
 
 ## Contribute
 
