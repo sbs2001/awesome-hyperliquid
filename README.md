@@ -52,6 +52,8 @@
 
 - [Hyperliquid builder fees report](https://floatout.xyz/hyperliquid-builder-revenue) - Daily gross USDC builder fees split by perps, HIP-3, HIP-4 and spot, with daily builder address counts, scanned from node fill data. CSV and JSON downloads, per-day source hashes, CC BY 4.0.
 
+- [AlphaYou weekend price record](https://alphayou.net/hyperliquid/weekend-prices?utm_source=outreach&utm_medium=outreach&utm_campaign=lists-oct&utm_content=awesome-hyperliquid) - Historical weekend and Sunday reopen price moves for Hyperliquid commodity and stock-linked perpetuals, with methods and a free CSV.
+
 ### X/Twitter Accounts
 
 - [Omnia.hl](https://x.com/0xOmnia)
