@@ -50,6 +50,8 @@
 
 - [TrueHold](https://www.truehold.xyz/track/hyperliquid) - Portfolio tracker that reads Hyperliquid positions and P&L by wallet address, next to other wallets and exchange accounts.
 
+- [perpbook](https://perpbook.vercel.app/) - Open-source trading journal and PnL tracker: paste an address to rebuild every perp trade from its fills, with PnL after fees and funding checked against Hyperliquid's own figure ([GitHub](https://github.com/patrickballard/perpbook)).
+
 - [Hyperliquid builder fees report](https://floatout.xyz/hyperliquid-builder-revenue) - Daily gross USDC builder fees split by perps, HIP-3, HIP-4 and spot, with daily builder address counts, scanned from node fill data. CSV and JSON downloads, per-day source hashes, CC BY 4.0.
 
 ### X/Twitter Accounts
