@@ -26,6 +26,7 @@
 - [HyperGrok Trading Desk](https://github.com/galleonlabs/hypergrok-trading-desk) - Grok-first Hyperliquid desk: seven roles and seventeen shared skills for setup, market data, risk, ticketed execution, and review. `npx skills add galleonlabs/hypergrok-trading-desk`
 - [TV-Hub](https://www.tv-hub.org/) - Executes TradingView alerts and forwarded Telegram signals as Hyperliquid orders, plus DCA and grid bots. Free when you approve the TV-Hub builder fee.
 - [CopyHype](https://copyhype.family/) - Telegram Mini App and bot to copy active Hyperliquid traders in one tap, ranked by 7-day ROI, or trade solo on crypto, stocks, gold, indices and meme perps. Non-custodial wallet, from $2 a trade, free 7-day practice with $1,000 of play money.
+- [WakeTrades](https://waketrades.com) - Non-custodial copy trading for Hyperliquid: copies the traders you choose onto your own account, 24/7, at one of four exposure levels. The agent key can place and close orders but can't withdraw. Flat USDC subscription, 0% per copied order, 14-day free trial. Agent-first: an AI agent can run it on its own wallet with no human step (API, MCP server).
 
 ### Analytics
 
