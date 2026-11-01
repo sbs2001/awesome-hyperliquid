@@ -77,6 +77,7 @@
 
 - [hl-builder-fees](https://github.com/Floatout/hl-builder-fees) - Zero-dependency TypeScript library for builder code fee math: `f` unit conversions, per-product caps (perps, spot, HIP-3, HIP-4), asset id classification, exact BigInt fee and split calculations. MIT, on npm.
 - [WalletWatcher](https://t.me/WalletWatcherAlertsBot?start=awesome) - Telegram bot: liquidation-distance alerts (8%/5%) and open/close/flip/liquidation pings for any Hyperliquid address. Read-only, no keys. 1 address free.
+
 ### Projects
 - [Rage](https://www.rage.trade/)
 - [HyBridge](https://x.com/HyBridgeHL)
