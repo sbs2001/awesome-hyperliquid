@@ -84,6 +84,7 @@
 - [VisionBoard Vault](https://vault.visionboardfinance.com/) - HyperEVM-native ERC-4626 vault and VBV share-token layer. [GeckoTerminal](https://www.geckoterminal.com/hyperevm/pools/0x8d878c31d03a31d60464d08bd6279e7205853115)
 - [Dexly](https://dexly.trade/) - Self-custodial mobile app (iOS/Android) for Hyperliquid: perps, spot, tokenized stocks, prediction markets, and copy trading.
 - [GDEX](https://gdex.pro/) - Multi-chain trading terminal by Gemach DAO with Hyperliquid perps (incl. HIP-3 equity, FX and commodity markets), perp copy trading from volume/PnL leaderboards, and an open-source MCP server and agent skills for AI agents ([GitHub](https://github.com/GemachDAO/gdex-skill)).
+- [Proliquid](https://www.proliquid.xyz/) - Multi-venue crypto trading terminal for Hyperliquid, RISEx, Lighter, Extended, Binance, Bybit, OKX and BloFin. Keys stay on the user's device; no builder fee on CEX venues, and the Hyperliquid builder fee starts at 2 bps and goes down to 0.5 bps by volume tier.
 
 
 - [Floatout](https://floatout.xyz/) - Launch a branded, non-custodial Hyperliquid trading site with perps and HIP-4 prediction markets, no code needed. The site earns builder-code fees.
