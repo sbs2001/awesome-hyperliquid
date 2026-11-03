@@ -72,6 +72,7 @@
 - [HyperEVM eth_getLogs backfill](https://github.com/blockvectra/hyperevm-getlogs-backfill) - Runnable Node script that splits HyperEVM `eth_getLogs` backfills into chunks sized to the RPC's block-range limit, with a 30-day call-count model.
 
 - [Hydromancer](https://hydromancer.xyz/) - Hyperliquid data API: REST and WebSocket access to fills, positions for up to 1,000 wallets per request, liquidations and L2/L4 order book streams, plus Reservoir, a free historical data archive on AWS S3.
+- [Ironflow](https://ironflow.sh) - Hyperliquid data API and MCP server from its own nodes: every fill since May 2025, liquidations (history and a live stream), funding, open interest, candles and wallet analytics, over REST, SQL and a hosted MCP server with 36 read-only tools. Free without a key; open datasets on Hugging Face.
 - [Resolved Markets](https://resolvedmarkets.com) - Historical and live Hyperliquid perp order books alongside Polymarket order book data, via REST, WebSocket and MCP. Hyperliquid data requires a paid plan.
 - [Vextorium](https://vextorium.com) - Pay-per-call Hyperliquid data for bots and AI agents: liquidation map of large accounts, whale positions, funding history, basis, vaults and markets, paid per call in USDC via x402 (no API key). Open-source Python client with a freqtrade helper: [vextorium-python](https://github.com/bru1noia/vextorium-python).
 
