@@ -76,6 +76,7 @@
 - [Vextorium](https://vextorium.com) - Pay-per-call Hyperliquid data for bots and AI agents: liquidation map of large accounts, whale positions, funding history, basis, vaults and markets, paid per call in USDC via x402 (no API key). Open-source Python client with a freqtrade helper: [vextorium-python](https://github.com/bru1noia/vextorium-python).
 
 - [hl-builder-fees](https://github.com/Floatout/hl-builder-fees) - Zero-dependency TypeScript library for builder code fee math: `f` unit conversions, per-product caps (perps, spot, HIP-3, HIP-4), asset id classification, exact BigInt fee and split calculations. MIT, on npm.
+- [Hyperliquid API docs map](https://cipher-intelligence.io/blog/hyperliquid-api/) - Guide to the official Hyperliquid API docs with runnable Python: where each topic lives in the GitBook, the info, exchange and WebSocket endpoints, API wallets (can trade, cannot withdraw), rate limits, and an endpoint cookbook for candles, trades, the order book, funding and open interest. Dated and re-checked against the live API.
 
 ### Projects
 - [Rage](https://www.rage.trade/)
