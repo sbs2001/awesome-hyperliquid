@@ -52,6 +52,8 @@
 
 - [Hyperliquid builder fees report](https://floatout.xyz/hyperliquid-builder-revenue) - Daily gross USDC builder fees split by perps, HIP-3, HIP-4 and spot, with daily builder address counts, scanned from node fill data. CSV and JSON downloads, per-day source hashes, CC BY 4.0.
 
+- [HyperSonnar](https://hypersonnar.fr/) - Hyperliquid trader leaderboard ranked by a published copiability score (perp-only results, net winners, holding times a person can follow), with a page per wallet showing PnL against net deposits and the account-level cushion before liquidation, plus a market screener for open interest and funding. Free, non-custodial, English and French.
+
 ### X/Twitter Accounts
 
 - [Omnia.hl](https://x.com/0xOmnia)
