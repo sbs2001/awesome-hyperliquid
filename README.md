@@ -74,6 +74,7 @@
 - [Hydromancer](https://hydromancer.xyz/) - Hyperliquid data API: REST and WebSocket access to fills, positions for up to 1,000 wallets per request, liquidations and L2/L4 order book streams, plus Reservoir, a free historical data archive on AWS S3.
 - [Resolved Markets](https://resolvedmarkets.com) - Historical and live Hyperliquid perp order books alongside Polymarket order book data, via REST, WebSocket and MCP. Hyperliquid data requires a paid plan.
 - [Vextorium](https://vextorium.com) - Pay-per-call Hyperliquid data for bots and AI agents: liquidation map of large accounts, whale positions, funding history, basis, vaults and markets, paid per call in USDC via x402 (no API key). Open-source Python client with a freqtrade helper: [vextorium-python](https://github.com/bru1noia/vextorium-python).
+- [CryptoDataAPI](https://cryptodataapi.com/api/docs) - REST API and remote MCP server for Hyperliquid data: candles, funding, open interest, liquidations, a liquidation map read from on-chain positions and whale positioning, plus backtesting archives of HL mark, oracle and OI history back to 2023. Free tier with a free key (1,000 requests/day after email confirmation).
 
 - [hl-builder-fees](https://github.com/Floatout/hl-builder-fees) - Zero-dependency TypeScript library for builder code fee math: `f` unit conversions, per-product caps (perps, spot, HIP-3, HIP-4), asset id classification, exact BigInt fee and split calculations. MIT, on npm.
 
