@@ -52,6 +52,8 @@
 
 - [Hyperliquid builder fees report](https://floatout.xyz/hyperliquid-builder-revenue) - Daily gross USDC builder fees split by perps, HIP-3, HIP-4 and spot, with daily builder address counts, scanned from node fill data. CSV and JSON downloads, per-day source hashes, CC BY 4.0.
 
+- [CostDepth Hyperliquid fees](https://www.costdepth.io/hyperliquid-fees) - Fee calculator for Hyperliquid perps that adds spread and slippage from the live order book to the base-tier fee, for any order size, with a side-by-side comparison against 16 centralized exchanges.
+
 ### X/Twitter Accounts
 
 - [Omnia.hl](https://x.com/0xOmnia)
