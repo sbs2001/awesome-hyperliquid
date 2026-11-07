@@ -76,6 +76,7 @@
 - [Vextorium](https://vextorium.com) - Pay-per-call Hyperliquid data for bots and AI agents: liquidation map of large accounts, whale positions, funding history, basis, vaults and markets, paid per call in USDC via x402 (no API key). Open-source Python client with a freqtrade helper: [vextorium-python](https://github.com/bru1noia/vextorium-python).
 
 - [hl-builder-fees](https://github.com/Floatout/hl-builder-fees) - Zero-dependency TypeScript library for builder code fee math: `f` unit conversions, per-product caps (perps, spot, HIP-3, HIP-4), asset id classification, exact BigInt fee and split calculations. MIT, on npm.
+- [Mishmar](https://github.com/mishmar-io/mishmar) - Risk management layer for trading bots and AI agents: limits on every order before it reaches Hyperliquid, approvals on large ones, and a split API wallet key so neither the bot nor Mishmar can trade alone. Python and TypeScript SDKs, a CLI and an MCP server.
 
 ### Projects
 - [Rage](https://www.rage.trade/)
