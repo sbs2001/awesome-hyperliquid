@@ -52,6 +52,8 @@
 
 - [Hyperliquid builder fees report](https://floatout.xyz/hyperliquid-builder-revenue) - Daily gross USDC builder fees split by perps, HIP-3, HIP-4 and spot, with daily builder address counts, scanned from node fill data. CSV and JSON downloads, per-day source hashes, CC BY 4.0.
 
+- [Viktury](https://viktury.com/exchanges/hyperliquid/) - Trading journal that reads a Hyperliquid wallet by address, no key. Rebuilds round trips from fills with fees and funding inside each trade's PnL, and checks the rebuilt USDC balance against the account value Hyperliquid reports. Free plan, plus a free [funding fee calculator](https://viktury.com/tools/funding-fee-calculator/).
+
 ### X/Twitter Accounts
 
 - [Omnia.hl](https://x.com/0xOmnia)
