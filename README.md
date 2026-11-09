@@ -87,6 +87,7 @@
 
 
 - [Floatout](https://floatout.xyz/) - Launch a branded, non-custodial Hyperliquid trading site with perps and HIP-4 prediction markets, no code needed. The site earns builder-code fees.
+- [ihatecrypto](https://ihatecrypto.ai) - Open-source self-custody wallet for Mac and Windows where your own AI model plans Hyperliquid perps on crypto, oil and stocks, sized by your risk rules with the stop and take placed with the order, and nothing is signed until you confirm. Takes a 0.05% builder fee.
 
 ## Contribute
 
