@@ -77,6 +77,8 @@
 
 - [hl-builder-fees](https://github.com/Floatout/hl-builder-fees) - Zero-dependency TypeScript library for builder code fee math: `f` unit conversions, per-product caps (perps, spot, HIP-3, HIP-4), asset id classification, exact BigInt fee and split calculations. MIT, on npm.
 
+- [AI Trading Signals](https://signals.x70.ai/mcp-docs?utm_source=awesome-hyperliquid) - Live crypto trading signals for AI agents via a remote MCP server (OAuth or API key), with entry, stop, target, reasoning and verified outcomes. Signals can be opened as Hyperliquid positions from the x70 Signals dashboard through an agent key (orders only, no withdrawals). Free tier: coin and direction; Pro adds entry, stop-loss and take-profit.
+
 ### Projects
 - [Rage](https://www.rage.trade/)
 - [HyBridge](https://x.com/HyBridgeHL)
