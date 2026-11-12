@@ -87,6 +87,7 @@
 
 
 - [Floatout](https://floatout.xyz/) - Launch a branded, non-custodial Hyperliquid trading site with perps and HIP-4 prediction markets, no code needed. The site earns builder-code fees.
+- [Shieldz Swap](https://swap.shieldz.cash/chains/hyperevm) - Non-custodial cross-chain swaps into and out of HyperEVM and Hypercore from 40+ chains (Bitcoin, Solana, Tron and more), comparing NEAR Intents, Relay and Chainflip routes per quote.
 
 ## Contribute
 
