@@ -24,6 +24,7 @@
 - [Signalview](https://www.signalview.xyz/) - Non-custodial AI agents that trade backtested, scored perps signals 24/7 using Hyperliquid agent keys (orders only, never withdrawals). Free to run.
 - [Testudo](https://github.com/sub0xdai/testudo) - Open-source crypto exchange platform with Rust matching engine, Hyperliquid agent wallet integration, shadow-mode paper trading, and multi-exchange support.
 - [HyperGrok Trading Desk](https://github.com/galleonlabs/hypergrok-trading-desk) - Grok-first Hyperliquid desk: seven roles and seventeen shared skills for setup, market data, risk, ticketed execution, and review. `npx skills add galleonlabs/hypergrok-trading-desk`
+- [Self-Hosted Perp DEX with AI Agents](https://github.com/rc-dran/self-hosted-perp-dex) - Open-source AI trading terminal for Hyperliquid perps that you host yourself: live chart with 5 indicators, market-order ticket, and an AI agent (8 models or a free built-in engine) that reads the chart and suggests entry, stop and target. The AI never places orders, and the app cannot withdraw. MIT.
 - [TV-Hub](https://www.tv-hub.org/) - Executes TradingView alerts and forwarded Telegram signals as Hyperliquid orders, plus DCA and grid bots. Free when you approve the TV-Hub builder fee.
 - [CopyHype](https://copyhype.family/) - Telegram Mini App and bot to copy active Hyperliquid traders in one tap, ranked by 7-day ROI, or trade solo on crypto, stocks, gold, indices and meme perps. Non-custodial wallet, from $2 a trade, free 7-day practice with $1,000 of play money.
 
