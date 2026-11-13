@@ -26,7 +26,7 @@
 - [HyperGrok Trading Desk](https://github.com/galleonlabs/hypergrok-trading-desk) - Grok-first Hyperliquid desk: seven roles and seventeen shared skills for setup, market data, risk, ticketed execution, and review. `npx skills add galleonlabs/hypergrok-trading-desk`
 - [TV-Hub](https://www.tv-hub.org/) - Executes TradingView alerts and forwarded Telegram signals as Hyperliquid orders, plus DCA and grid bots. Free when you approve the TV-Hub builder fee.
 - [CopyHype](https://copyhype.family/) - Telegram Mini App and bot to copy active Hyperliquid traders in one tap, ranked by 7-day ROI, or trade solo on crypto, stocks, gold, indices and meme perps. Non-custodial wallet, from $2 a trade, free 7-day practice with $1,000 of play money.
-- [pathiel](https://github.com/Julian-dev28/pathiel) - Open-source AI trading agent for Hyperliquid perps, as a Claude Code plugin and MCP server. Every order is a bracket with an exact stop and target, sized from a risk profile (3x and 1% of equity per trade by default). Oil and metals desk briefs, HIP-3 markets, read-only without a key, testnet opt-in.
+- [pathiel](https://github.com/Julian-dev28/pathiel) - Free, open-source AI trading agent for Hyperliquid perps, as a Claude Code plugin and MCP server. Every order is a bracket with an exact stop and target, sized from a risk profile (3x and 1% of equity per trade by default). Connect your wallet with one signature; oil and metals desk briefs, HIP-3 markets, read-only without a key, testnet opt-in.
 
 ### Analytics
 
