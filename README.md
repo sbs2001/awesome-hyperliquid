@@ -76,6 +76,7 @@
 - [Vextorium](https://vextorium.com) - Pay-per-call Hyperliquid data for bots and AI agents: liquidation map of large accounts, whale positions, funding history, basis, vaults and markets, paid per call in USDC via x402 (no API key). Open-source Python client with a freqtrade helper: [vextorium-python](https://github.com/bru1noia/vextorium-python).
 
 - [hl-builder-fees](https://github.com/Floatout/hl-builder-fees) - Zero-dependency TypeScript library for builder code fee math: `f` unit conversions, per-product caps (perps, spot, HIP-3, HIP-4), asset id classification, exact BigInt fee and split calculations. MIT, on npm.
+- [SODAX for HyperEVM](https://docs.sodax.com/hyperevm) - Cross-network intent swaps (HTTP API or TypeScript SDK) and money market supply/borrow (TypeScript SDK, `@sodax/sdk`, MIT) from HyperEVM, with an option to deliver swapped USDC straight into a HyperCore perps account. No contracts to deploy.
 
 ### Projects
 - [Rage](https://www.rage.trade/)
