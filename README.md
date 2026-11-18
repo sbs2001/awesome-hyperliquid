@@ -88,6 +88,8 @@
 
 - [Floatout](https://floatout.xyz/) - Launch a branded, non-custodial Hyperliquid trading site with perps and HIP-4 prediction markets, no code needed. The site earns builder-code fees.
 
+- [Ownbit](https://ownbit.io/en/) - Self-custody iOS/Android wallet with QR-based offline signing for HyperEVM. Paid membership with a 7-day trial.
+
 ## Contribute
 
 Contributions are welcome!
