@@ -77,6 +77,8 @@
 
 - [hl-builder-fees](https://github.com/Floatout/hl-builder-fees) - Zero-dependency TypeScript library for builder code fee math: `f` unit conversions, per-product caps (perps, spot, HIP-3, HIP-4), asset id classification, exact BigInt fee and split calculations. MIT, on npm.
 
+- [PerpGuard danger feed](https://perpguard.com/api/v1/market/danger) - Free JSON feed, no API key: how much Hyperliquid open interest sits near its liquidation price, by asset, with the sample coverage stated in every response, plus liquidations in the last 24 hours for the accounts tracked. Disclosure: maintained by PerpGuard.
+
 ### Projects
 - [Rage](https://www.rage.trade/)
 - [HyBridge](https://x.com/HyBridgeHL)
