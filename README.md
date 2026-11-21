@@ -26,6 +26,7 @@
 - [HyperGrok Trading Desk](https://github.com/galleonlabs/hypergrok-trading-desk) - Grok-first Hyperliquid desk: seven roles and seventeen shared skills for setup, market data, risk, ticketed execution, and review. `npx skills add galleonlabs/hypergrok-trading-desk`
 - [TV-Hub](https://www.tv-hub.org/) - Executes TradingView alerts and forwarded Telegram signals as Hyperliquid orders, plus DCA and grid bots. Free when you approve the TV-Hub builder fee.
 - [CopyHype](https://copyhype.family/) - Telegram Mini App and bot to copy active Hyperliquid traders in one tap, ranked by 7-day ROI, or trade solo on crypto, stocks, gold, indices and meme perps. Non-custodial wallet, from $2 a trade, free 7-day practice with $1,000 of play money.
+- [Hyperliquid Starter Bots](https://github.com/Hyperliquidguide/hyperliquid-starter-bots) - Open-source Python market maker, scalper, grid and funding-arb bots with risk limits, dry-run and testnet by default, plus an AGENTS.md for Claude Code and Codex.
 
 ### Analytics
 
@@ -67,6 +68,7 @@
 
 
 - [Bitquery Hyperliquid API](https://docs.bitquery.io/docs/perpetuals/hyperliquid) - GraphQL and WebSocket API for Hyperliquid core, serving the book at **L3 (market-by-order)**: every order delta carries its own order id and the wallet address that placed it, market-wide and at unlimited depth. Also covers trades, OHLCV candles, liquidations, funding, positions, leverage, TWAPs, mark prices and signed actions. The same query runs as a historical query or a real-time subscription.
+- [Hyperliquid Guide MCP](https://github.com/Hyperliquidguide/hyperliquid-starter-bots#use-it-from-your-coding-agent) - Read-only MCP server and Agent Skill for coding agents: live market specs, order rounding, funding rankings and error explanations. Holds no keys.
 
 - [Hyperliquid REST API Wrapper](https://hyperliquid-api-deploy.vercel.app) — Free REST API wrapper for Hyperliquid market data. Simple GET endpoints for 275+ perp prices, L2 orderbooks, OHLCV candles, funding rates, and account data. No API key needed for free tier (100 req/day). Docs + live demo at the link.
 - [HyperEVM eth_getLogs backfill](https://github.com/blockvectra/hyperevm-getlogs-backfill) - Runnable Node script that splits HyperEVM `eth_getLogs` backfills into chunks sized to the RPC's block-range limit, with a 30-day call-count model.
