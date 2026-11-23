@@ -87,6 +87,7 @@
 
 
 - [Floatout](https://floatout.xyz/) - Launch a branded, non-custodial Hyperliquid trading site with perps and HIP-4 prediction markets, no code needed. The site earns builder-code fees.
+- [ETHTokenLaunch Elysium Token Creator](https://www.ethtokenlaunch.com/elysium-token-creator/) - No-code creator for fixed-supply ERC-20 tokens on Elysium, the Kinetiq Layer 2 that settles to HyperEVM. Pays gas in HYPE.
 
 ## Contribute
 
