@@ -52,6 +52,8 @@
 
 - [Hyperliquid builder fees report](https://floatout.xyz/hyperliquid-builder-revenue) - Daily gross USDC builder fees split by perps, HIP-3, HIP-4 and spot, with daily builder address counts, scanned from node fill data. CSV and JSON downloads, per-day source hashes, CC BY 4.0.
 
+- [LabelYX](https://labelyx.xyz) - Free Hyperliquid wallet tracker and market dashboard: PnL, win rate and net deposits for any address, a money-flow graph, trader leaderboard, funding rates, whale positions, vault rankings, and a read-only MCP server for ChatGPT and Claude.
+
 ### X/Twitter Accounts
 
 - [Omnia.hl](https://x.com/0xOmnia)
