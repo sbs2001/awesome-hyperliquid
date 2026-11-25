@@ -26,7 +26,7 @@
 - [HyperGrok Trading Desk](https://github.com/galleonlabs/hypergrok-trading-desk) - Grok-first Hyperliquid desk: seven roles and seventeen shared skills for setup, market data, risk, ticketed execution, and review. `npx skills add galleonlabs/hypergrok-trading-desk`
 - [TV-Hub](https://www.tv-hub.org/) - Executes TradingView alerts and forwarded Telegram signals as Hyperliquid orders, plus DCA and grid bots. Free when you approve the TV-Hub builder fee.
 - [CopyHype](https://copyhype.family/) - Telegram Mini App and bot to copy active Hyperliquid traders in one tap, ranked by 7-day ROI, or trade solo on crypto, stocks, gold, indices and meme perps. Non-custodial wallet, from $2 a trade, free 7-day practice with $1,000 of play money.
-- [Senpi](https://senpi.ai) - AI trading agent for Hyperliquid perps that runs ready-made or plain-language strategies, with exits run by a two-phase trailing stop; its 140+ strategy templates are open source ([GitHub](https://github.com/Senpi-ai/senpi-skills)).
+- [Senpi](https://senpi.ai) - Non-custodial AI trading agent for Hyperliquid perps that runs ready-made or plain-language strategies, with exits run by a two-phase trailing stop; its 140+ strategy templates are open source ([GitHub](https://github.com/Senpi-ai/senpi-skills)).
 
 ### Analytics
 
