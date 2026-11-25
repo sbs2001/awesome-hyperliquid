@@ -87,6 +87,7 @@
 
 
 - [Floatout](https://floatout.xyz/) - Launch a branded, non-custodial Hyperliquid trading site with perps and HIP-4 prediction markets, no code needed. The site earns builder-code fees.
+- [Perpex](https://perpex.co/) - Self-custodial Hyperliquid app for iOS, Android and web: perps, spot, HIP-3 markets (stocks, commodities) and HIP-4 outcome markets. Copy any Hyperliquid wallet with your own budget and risk limits, plus wallet analytics and a whale tracker. Trades through an agent key that can trade but cannot withdraw. [iOS](https://apps.apple.com/app/perpex/id6761027014) · [Android](https://play.google.com/store/apps/details?id=com.celebit.perpex)
 
 ## Contribute
 
