@@ -52,6 +52,8 @@
 
 - [Hyperliquid builder fees report](https://floatout.xyz/hyperliquid-builder-revenue) - Daily gross USDC builder fees split by perps, HIP-3, HIP-4 and spot, with daily builder address counts, scanned from node fill data. CSV and JSON downloads, per-day source hashes, CC BY 4.0.
 
+- [EdgeRadar](https://roy19012e.github.io/edgeradar/vault-audit.html) - Zero-key Hyperliquid vault and wallet execution forensics directly from public L1 `userFills`, `userFees`, and L2 orderbook snapshots: taker-vs-ALO fee bleed, spread crossing cost, and adaptive ALO mitigation simulator, plus a zero-dependency 7-tool MCP server and CLI ([GitHub](https://github.com/ROy19012e/edgeradar), MIT).
+
 ### X/Twitter Accounts
 
 - [Omnia.hl](https://x.com/0xOmnia)
