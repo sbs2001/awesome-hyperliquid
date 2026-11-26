@@ -52,6 +52,8 @@
 
 - [Hyperliquid builder fees report](https://floatout.xyz/hyperliquid-builder-revenue) - Daily gross USDC builder fees split by perps, HIP-3, HIP-4 and spot, with daily builder address counts, scanned from node fill data. CSV and JSON downloads, per-day source hashes, CC BY 4.0.
 
+- [liquidation.lol](https://liquidation.lol/whales) - Free whale tracker for every $1M+ Hyperliquid wallet: biggest longs and shorts, leverage, liquidation prices and how close each position is to liquidation.
+
 ### X/Twitter Accounts
 
 - [Omnia.hl](https://x.com/0xOmnia)
