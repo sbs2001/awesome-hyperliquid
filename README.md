@@ -51,6 +51,7 @@
 - [TrueHold](https://www.truehold.xyz/track/hyperliquid) - Portfolio tracker that reads Hyperliquid positions and P&L by wallet address, next to other wallets and exchange accounts.
 
 - [Hyperliquid builder fees report](https://floatout.xyz/hyperliquid-builder-revenue) - Daily gross USDC builder fees split by perps, HIP-3, HIP-4 and spot, with daily builder address counts, scanned from node fill data. CSV and JSON downloads, per-day source hashes, CC BY 4.0.
+- [Weekend Market Prices](https://weekendmarkets.site) - Indicative weekend and overnight prices for gold, oil, Nasdaq-100, S&P 500, and FX from Hyperliquid xyz (HIP-3) perps, with gap vs. last official close and an open CC-BY-4.0 weekend gap-history dataset ([CSV/JSON repo](https://github.com/lololo3x/weekend-market-gaps-data)).
 
 ### X/Twitter Accounts
 
