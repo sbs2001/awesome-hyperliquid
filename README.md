@@ -87,6 +87,7 @@
 
 
 - [Floatout](https://floatout.xyz/) - Launch a branded, non-custodial Hyperliquid trading site with perps and HIP-4 prediction markets, no code needed. The site earns builder-code fees.
+- [Mirrorly](https://mirrorly.xyz/) - Self-custodial cross-exchange perp copy trading: copy curated Hyperliquid and Binance traders onto Hyperliquid, Bybit, Bitget, or BloFin with ratio/fixed sizing, exposure caps, slippage protection, inverse copy, and TP/SL. 0.02%–0.03% builder fee on Hyperliquid; free via referral link on partner exchanges, with plans for other exchanges.
 
 ## Contribute
 
