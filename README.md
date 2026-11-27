@@ -87,6 +87,7 @@
 
 
 - [Floatout](https://floatout.xyz/) - Launch a branded, non-custodial Hyperliquid trading site with perps and HIP-4 prediction markets, no code needed. The site earns builder-code fees.
+- [Prow](https://prowdex.com/) - Non-custodial app for trading perps on Hyperliquid, Aster and Lighter, with trading bots and prediction markets (Hyperliquid outcome markets, Polymarket, predict.fun).
 
 ## Contribute
 
