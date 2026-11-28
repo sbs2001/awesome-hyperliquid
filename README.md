@@ -77,6 +77,8 @@
 
 - [hl-builder-fees](https://github.com/Floatout/hl-builder-fees) - Zero-dependency TypeScript library for builder code fee math: `f` unit conversions, per-product caps (perps, spot, HIP-3, HIP-4), asset id classification, exact BigInt fee and split calculations. MIT, on npm.
 
+- [exchange-api-checks](https://github.com/takinanton/exchange-api-checks) - Open source scripts that ask the live Hyperliquid API what it really serves (for example which candle intervals exist) and compare that with what SDKs assume. No keys needed.
+
 ### Projects
 - [Rage](https://www.rage.trade/)
 - [HyBridge](https://x.com/HyBridgeHL)
